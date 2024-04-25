@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @theo1010
-- 🌱 I’m currently learning dero
 
 
 <!---
